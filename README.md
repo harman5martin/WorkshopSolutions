@@ -1,4 +1,4 @@
-# WorkshopSolutions
+# WorkshopSolution1
 
 This Repository contains my solution to Exercise 1.
 
